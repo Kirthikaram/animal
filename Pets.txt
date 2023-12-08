@@ -1,3 +1,7 @@
 Dog
 frog
 cat
+lizard
+lion
+tiger
+
